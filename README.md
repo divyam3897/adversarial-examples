@@ -38,4 +38,4 @@ For more resources on Jupyter Notebooks, check out the following:
 ## Result
 
 The image below shows 10 samples of 2 on the left, perturbation in the middle and the adversarial examples on the right
-![Adversarial examples](https://github.com/divyam3897/adversarial-examples/blob/master/test.png)
+![Adversarial examples](https://github.com/divyam3897/adversarial-examples/blob/master/result.png)
